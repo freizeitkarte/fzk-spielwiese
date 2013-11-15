@@ -1,3 +1,5 @@
 Ich committe auch mal was ...
 
 Ist Github for Mac der "bessere" Client ?
+
+Nein, "Github for Mac" macht einige Sache sehr bequem, aber als alleinigen Client kann man ihn derzeit wegen fehlender Features nicht nutzen.
