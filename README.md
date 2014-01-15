@@ -18,4 +18,4 @@ English
 -------
 
 
-*F*reizeitkarte Map Development Environment for Garmin
+**F**rei**z**eit**k**arte **M**ap **D**evelopment **E**nvironment for **G**armin
