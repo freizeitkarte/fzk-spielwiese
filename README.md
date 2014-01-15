@@ -18,4 +18,4 @@ English
 -------
 
 
-**F**rei**z**eit**k**arte **M**ap **D**evelopment **E**nvironment for **G**armin
+**F**rei<strong>z</strong>eit**k**arte **M**ap **D**evelopment **E**nvironment for **G**armin
